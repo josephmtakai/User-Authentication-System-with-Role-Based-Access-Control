@@ -1,0 +1,16 @@
+project/
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│   └── forms.py
+├── templates/
+│   ├── base.html
+│   ├── login.html
+│   ├── register.html
+│   ├── admin_dashboard.html
+│   └── user_dashboard.html
+├── static/
+│   └── styles.css
+├── config.py
+└── run.py
